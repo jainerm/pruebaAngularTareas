@@ -1,27 +1,32 @@
 # TareasAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+Esta aplicacion hecha Con Angular 2, para en manejo de tareas.
 
-## Development server
+Permite crear usuario, ingresar el usuario, definir tareas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ver el esta de las las tareas una vez ingrese 
 
-## Code scaffolding
+1. Clone el proyecto
+====================
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ingrese a la carpeta y ejectute "npm install", luego corra la aplicacion con "npm start"
 
-## Build
+## Ingreso del usuario
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://user-images.githubusercontent.com/45112986/129126119-ba15a33e-d659-4dfc-bf23-70559069672d.png)
 
-## Running unit tests
+Ingrese los datos de usuario, en caso se estar registrado o pase a la opcion "Registro"
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/45112986/129126173-81303bd2-3bfb-4987-ba2d-bd3c42f5c158.png)
 
-## Running end-to-end tests
+Ingrese los datos solicitados del usuario y nuevamente pase a la opcion ingreso e ingresar a la aplicación a la opcion "Tareas"
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Opcion Tareas
 
-## Further help
+![image](https://user-images.githubusercontent.com/45112986/129126343-5dc747f6-2010-4c9b-8c67-b574e6678441.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Ingrese los datos de cada tarea en "REQUERIDO" "EN PROCESO" y "REALIZADO"
+
+Registre en cada ficha los datos de la tarea e indique el "Estado" Iniciada, Detenida, Anulada.
+
+
