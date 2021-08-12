@@ -7,7 +7,7 @@ Permite crear usuario, ingresar el usuario, definir tareas.
 
 ## 1. Clone el proyecto
 
-Ingrese a la carpeta y ejectute "npm install", luego corra la aplicacion con "npm start"
+Ingrese a la carpeta y ejectute "npm install", luego corra la aplicacion con "npm start" luego desde el explorador Chrome http://localhost:4200
 
 ## 2 Ingreso del usuario
 
