@@ -5,8 +5,7 @@ Esta aplicacion hecha Con Angular 2, para en manejo de tareas.
 Permite crear usuario, ingresar el usuario, definir tareas.
 
 
-1. Clone el proyecto
-====================
+## 1. Clone el proyecto
 
 Ingrese a la carpeta y ejectute "npm install", luego corra la aplicacion con "npm start"
 
